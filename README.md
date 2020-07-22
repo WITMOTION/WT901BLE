@@ -1,4 +1,4 @@
-# WT901BLECL
+# WT901BLE
  Developed tutorial: providing manual, datasheet, free software for Windows computer, APP for Android smartphones
  
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/WT901BLECL
+https://github.com/WITMOTION/WT901BLE
 
 Google Drive: 
-https://drive.google.com/open?id=1NlOFHSTYNy2bRAfaA0S25BEaXK4uvia9
+https://drive.google.com/open?id=1tGHHV5sZNaPM98fs3PSdcsgRfHk_bv6y
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-WT901BLECL Playlist: 
-https://www.youtube.com/watch?v=smi2uePvC-Q&list=PL43tdDrVL_VAfKJBsq4kkwK40yXKtK-kk
+WT901BLE Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VDbaSPQi6dXms3fCYPBc5OV
 
 -----------
 After-sale Service& Technical Support: 
